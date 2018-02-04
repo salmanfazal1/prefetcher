@@ -1,7 +1,9 @@
-OVERVIEW:
+This is a virtualized prefetcher written for the simple scalar architecture.
+The architecture configuration can be changed in the config files and are passed
+to make as an argument.
 
-This README file is for the SimpleScalar simulator release 3.0.  This release
-is available from:
+
+SimpleScalar simulator release 3.0 release is available from:
 
 	http://www.simplescalar.com
 
